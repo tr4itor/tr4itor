@@ -63,7 +63,7 @@ Platforms      : HTB, TryHackMe, Intigriti, HackerOne
 > Personal cybersecurity experiments
 ```
 
-```text
+```markdown
 [ CONTACT / PROFILES ]
 --------------------------------------------------
 [TryHackMe](https://tryhackme.com/p/GithubPlayer)
