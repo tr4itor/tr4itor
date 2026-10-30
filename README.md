@@ -9,16 +9,16 @@
              INFOSECURITY / OFFENSIVE SECURITY
 ```
 
-# tr4itor
+# Hi, I'm Tr4itor
 
-`[ Aspiring Penetration Tester ]` `[ Cybersecurity Enthusiast ]`
+`[ Aspiring Penetration Tester ]` `[ Infosecurity Enthusiast ]`
 
 ```text
 [ ABOUT ME ]
 --------------------------------------------------
-Self-taught cybersecurity enthusiast focused on
+Self-taught infosecurity enthusiast focused on
 Offensive Security, Web Application Security,
-and Python automation.
+and Python.
 
 Currently developing practical skills through
 CTF challenges, security labs, and personal projects.
@@ -32,7 +32,7 @@ CTF challenges, security labs, and personal projects.
 > Bug Bounty Hunting
 > Network Security
 > Linux & System Administration
-> Python for Security Automation
+> Python 
 ```
 
 ```text
@@ -49,7 +49,7 @@ Platforms      : HTB, TryHackMe, Intigriti, HackerOne
 --------------------------------------------------
 [+] Python for Cybersecurity
 [+] Web Vulnerability Research
-[+] Network Enumeration
+[+] Network 
 [+] Security Testing Methodologies
 [+] Security Tool Development
 ```
@@ -66,7 +66,6 @@ Platforms      : HTB, TryHackMe, Intigriti, HackerOne
 ```text
 [ CONTACT / PROFILES ]
 --------------------------------------------------
-GitHub     : https://github.com/tr4itor
 TryHackMe  : https://tryhackme.com/p/GithubPlayer
 HackTheBox : https://profile.hackthebox.com/profile/019ee9c0-c469-724d-9cdd-94be86ab586f
 Intigriti  : https://app.intigriti.com/researcher/profile/arc4ch4n
@@ -76,9 +75,6 @@ HackerOne  : https://hackerone.com/ch_h1one?type=user
 ```text
 --------------------------------------------------
 [ STATUS ] : LEARNING / BUILDING / RESEARCHING
-
-"Understand the system. Find the weakness.
- Learn how to secure it."
 
 --------------------------------------------------
 ```
