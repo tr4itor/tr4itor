@@ -66,10 +66,10 @@ Platforms      : HTB, TryHackMe, Intigriti, HackerOne
 ```text
 [ CONTACT / PROFILES ]
 --------------------------------------------------
-TryHackMe  : https://tryhackme.com/p/GithubPlayer
-HackTheBox : https://profile.hackthebox.com/profile/019ee9c0-c469-724d-9cdd-94be86ab586f
-Intigriti  : https://app.intigriti.com/researcher/profile/arc4ch4n
-HackerOne  : https://hackerone.com/ch_h1one?type=user
+[TryHackMe](https://tryhackme.com/p/GithubPlayer)
+[HackTheBox](https://profile.hackthebox.com/profile/019ee9c0-c469-724d-9cdd-94be86ab586f)
+[Intigriti](https://app.intigriti.com/researcher/profile/arc4ch4n)
+[HackerOne](https://hackerone.com/ch_h1one?type=user)
 ```
 
 ```text
