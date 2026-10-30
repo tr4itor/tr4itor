@@ -13,8 +13,8 @@
 
 `[ Aspiring Penetration Tester ]` `[ Infosecurity Enthusiast ]`
 
-```markdown
-**[ ABOUT ME ]**
+```text
+[ ABOUT ME ]
 --------------------------------------------------
 Self-taught infosecurity enthusiast focused on
 Offensive Security, Web Application Security,
