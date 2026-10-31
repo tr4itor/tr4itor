@@ -77,7 +77,7 @@ Platforms      : HTB, TryHackMe, Intigriti, HackerOne
 
 ```text
 --------------------------------------------------
-[ STATUS ] : LEARNING / BUILDING / RESEARCHING
+[ STATUS ] : LEARNING / BUILDING / RESEARCHING / UPGRADING
 
 --------------------------------------------------
 ```
