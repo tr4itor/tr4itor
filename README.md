@@ -40,8 +40,7 @@ CTF challenges, security labs, and personal projects.
 --------------------------------------------------
 Languages      : Python, Bash
 Operating Sys. : Linux, Windows
-Security Tools : Burp Suite, Nmap
-Platforms      : HTB, TryHackMe, Intigriti, HackerOne
+Security Tools : Burp Suite/Caido, Nmap, MSF, Nuclei, etc.
 ```
 
 ```text
