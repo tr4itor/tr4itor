@@ -62,9 +62,8 @@ Security Tools : Burp/Caido, Nmap, MSF, Nuclei, etc.
 > Personal cybersecurity experiments
 ```
 
-
 ## [ PROFILES ]
---------------------------------------------------
+
 **[TryHackMe](https://tryhackme.com/p/GithubPlayer)**
 
 **[HackTheBox](https://profile.hackthebox.com/profile/019ee9c0-c469-724d-9cdd-94be86ab586f)**
