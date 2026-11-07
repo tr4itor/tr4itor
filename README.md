@@ -13,9 +13,9 @@
 
 `[ Aspiring Penetration Tester ]` `[ Infosecurity Enthusiast ]`
 
+## [ ABOUT ME ]
+
 ```text
-[ ABOUT ME ]
---------------------------------------------------
 Self-taught infosecurity enthusiast focused on
 Offensive Security, Web Application Security,
 and Python.
@@ -24,9 +24,9 @@ Currently developing practical skills through
 CTF challenges, security labs, and personal projects.
 ```
 
+## [ AREAS OF INTEREST ]
+
 ```text
-[ AREAS OF INTEREST ]
---------------------------------------------------
 > Web Application Security
 > Penetration Testing
 > Bug Bounty Hunting
@@ -35,17 +35,17 @@ CTF challenges, security labs, and personal projects.
 > Python 
 ```
 
-```text
-[ TECH STACK ]
---------------------------------------------------
-Languages      : Python, Bash
-Operating Sys. : Linux, Windows
-Security Tools : Burp Suite/Caido, Nmap, MSF, Nuclei, etc.
-```
+## [ TECH STACK ]
 
 ```text
-[ CURRENTLY LEARNING ]
---------------------------------------------------
+Languages      : Python, Bash
+Operating Sys. : Linux, Windows
+Security Tools : Burp/Caido, Nmap, MSF, Nuclei, etc.
+```
+
+## [ CURRENTLY LEARNING ]
+
+```text
 [+] Python for Cybersecurity
 [+] Web Vulnerability Research
 [+] Network 
@@ -53,9 +53,9 @@ Security Tools : Burp Suite/Caido, Nmap, MSF, Nuclei, etc.
 [+] Security Tool Development
 ```
 
+## [ PROJECTS & RESEARCH ]
+
 ```text
-[ PROJECTS & RESEARCH ]
---------------------------------------------------
 > Python security-related tools
 > CTF write-ups and lab notes
 > Web security research
@@ -63,7 +63,7 @@ Security Tools : Burp Suite/Caido, Nmap, MSF, Nuclei, etc.
 ```
 
 
-[ CONTACT / PROFILES ]
+## [ PROFILES ]
 --------------------------------------------------
 **[TryHackMe](https://tryhackme.com/p/GithubPlayer)**
 
@@ -73,15 +73,16 @@ Security Tools : Burp Suite/Caido, Nmap, MSF, Nuclei, etc.
 
 **[HackerOne](https://hackerone.com/ch_h1one?type=user)**
 
-**[CONTACT_ME](mailto:usu99@protonmail.com)**
-
 ## [PORTFOLIO]
 
 **[CLICK](https://tr4itor.github.io/Portfolio)**
 
+## [CONTACT]
+
+**[CONTACT ME](mailto:usu99@protonmail.com)**
+
 ```text
 --------------------------------------------------
 [ STATUS ] : LEARNING / BUILDING / RESEARCHING / UPGRADING
-
 --------------------------------------------------
 ```
